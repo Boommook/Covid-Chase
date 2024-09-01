@@ -30,6 +30,7 @@ public class GameManager : MonoBehaviour
     public GameObject bigBushRightPrefab;
     public Tilemap road;
     public GameObject stage;
+    public GameObject house;
     private List<Vector2> smallBushes = new List<Vector2>();
     
     
